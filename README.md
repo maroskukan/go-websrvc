@@ -4,7 +4,7 @@ Sample Go web service
 
 ## Initializing module
 ```
-go init github.com/maroskukan/go-websrvc
+go mod init github.com/maroskukan/go-websrvc
 ```
 
 ## Running module
