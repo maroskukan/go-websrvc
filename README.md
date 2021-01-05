@@ -11,3 +11,7 @@ go init github.com/maroskukan/go-websrvc
 ```
 go run github.com/maroskukan/go-websrvc
 ```
+
+## Testing module
+
+Import the collection from postman folder. 
